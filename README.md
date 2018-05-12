@@ -7,4 +7,6 @@ Run through the examples at https://solidity.readthedocs.io
 
 # SimpleStorage
 
-# Coin
+# [Coin](Coin.sol)
+
+# next... [Blockchain Basics](https://solidity.readthedocs.io/en/v0.4.23/introduction-to-smart-contracts.html#blockchain-basics)
