@@ -7,6 +7,12 @@ Run through the examples at https://solidity.readthedocs.io
 
 # SimpleStorage
 
-# [Coin](Coin.sol)
+* [Contract](SimpleStorage.sol)
+* [Client](SimpleStorage.js)
+
+# Coin
+
+* [Contract](Coin.sol)
+* [Client](Coin.js)
 
 # next... [Blockchain Basics](https://solidity.readthedocs.io/en/v0.4.23/introduction-to-smart-contracts.html#blockchain-basics)
